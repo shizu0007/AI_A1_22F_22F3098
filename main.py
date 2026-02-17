@@ -299,5 +299,7 @@ def main():
                     bidirectional(grid,start,end)
 
     pygame.quit()
+    # Minor update for visualization improvement
+
 
 main()
